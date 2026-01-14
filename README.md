@@ -1,2 +1,2 @@
 # ODT-Week-2
-ODT week 2 DR DOOM mask
+Dr. Doom mask with glowing eye feature — Created by Dhruv Yadav & Aditya Soman.
